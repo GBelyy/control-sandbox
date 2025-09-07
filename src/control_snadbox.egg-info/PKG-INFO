@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: control-snadbox
+Version: 0.1.0
+Summary: Репозиторий для исследований различных моделей управления
+Requires-Python: >=3.13
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: matplotlib>=3.5.0
