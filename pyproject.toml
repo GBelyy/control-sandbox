@@ -1,0 +1,20 @@
+[project]
+name = "cellular-automaton"
+version = "0.1.0"
+description = "Моделирование клеточного автомата"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy>=1.21.0",
+    "matplotlib>=3.5.0",
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]
+exclude = ["*.ipynb", "tests*", "__pycache__"]

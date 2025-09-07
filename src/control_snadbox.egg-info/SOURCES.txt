@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/cellular_automaton/cell_machine.py
-src/control_snadbox.egg-info/PKG-INFO
-src/control_snadbox.egg-info/SOURCES.txt
-src/control_snadbox.egg-info/dependency_links.txt
-src/control_snadbox.egg-info/requires.txt
-src/control_snadbox.egg-info/top_level.txt
